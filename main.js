@@ -1,3 +1,4 @@
+// AGrizzly1 Code
 let names = ["AGrizzly1", "Fizzy Friday", "Master Bates", "AfterDeath"]
 
 let gameCount = 0;
@@ -190,3 +191,6 @@ if (gameCount >= 3) {
     document.getElementById("last-three-games-text").style.display = "block";
     ShowLastGames();
 }
+// End of AGrizzly1 code
+
+
